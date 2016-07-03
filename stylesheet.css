@@ -1,0 +1,12 @@
+background-color: blue;
+
+div a{
+	color:grey;
+	font-size: 14px;
+	text-decoration:none;
+}
+p {
+	color:blue;}
+a:hover{
+	text-decoration:none;
+	color:red;}
